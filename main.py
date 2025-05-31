@@ -1,7 +1,7 @@
 import speech_recognition as sr  # Recognizes speech from the microphone.
 import webbrowser  # Opens web URLs in a browser.
 import pyttsx3 as pt  # Used for text-to-speech functionality.
-import musicLibrary  # Used for music library functionality.
+import musicLibrary  # Used for in built music library functionality.
 import requests  # Used for web requests.
 
 
